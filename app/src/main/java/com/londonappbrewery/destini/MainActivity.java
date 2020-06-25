@@ -43,8 +43,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 switch (mStoryIndex){
                     case 0:
-                        updateQuestion(2);
-                        break;
                     case 1:
                         updateQuestion(2);
                         break;
